@@ -317,23 +317,23 @@ sbt run
 
 - The following diagram shows the Field Dependency for the fields used in the **object Oriented** Query construction.
 
-!["Field Dependency"](https://bitbucket.org/mehulbirari/mehul_birari_cs474_courseproject/raw/aab17082934ff7d84616e2849e015355e597e3d8/GraphQL_ObjectOriented_Implementation/Screenshots/Fields%20dependency.PNG)
+!["Field Dependency"](https://github.com/rahulromilkeswani/graphql-client-for-github/blob/master/Screenshots/Fields%20dependency.PNG)
 
 - The following diagram shows the Filter Dependency for the filters used in the **object Oriented** Query construction.
 
-!["Filter Dependency"](https://bitbucket.org/mehulbirari/mehul_birari_cs474_courseproject/raw/aab17082934ff7d84616e2849e015355e597e3d8/GraphQL_ObjectOriented_Implementation/Screenshots/Filters%20dependency.PNG)
+!["Filter Dependency"](https://github.com/rahulromilkeswani/graphql-client-for-github/blob/master/Screenshots/Filters%20dependency.PNG)
 
 - The following diagram shows the BaseQueries class dependency which are used to create Queries.
 
-!["Queries Dependency"](https://bitbucket.org/mehulbirari/mehul_birari_cs474_courseproject/raw/aab17082934ff7d84616e2849e015355e597e3d8/GraphQL_ObjectOriented_Implementation/Screenshots/Queries%20dependency.PNG)
+!["Queries Dependency"](https://github.com/rahulromilkeswani/graphql-client-for-github/blob/master/Screenshots/Queries%20dependency.PNG)
 
 - The following diagram shows the State Dependency of the Query to ensure proper execution regardless of the field and filter specification.   
 
-!["State Dependency"](https://bitbucket.org/mehulbirari/mehul_birari_cs474_courseproject/raw/aab17082934ff7d84616e2849e015355e597e3d8/GraphQL_ObjectOriented_Implementation/Screenshots/State%20dependency.PNG)
+!["State Dependency"](https://github.com/rahulromilkeswani/graphql-client-for-github/blob/master/Screenshots/State%20dependency.PNG)
 
 - The following diagram shows the Converter Dependency for json String to Scala object and vice versa.
 
-!["Converter Dependency"](https://bitbucket.org/mehulbirari/mehul_birari_cs474_courseproject/raw/aab17082934ff7d84616e2849e015355e597e3d8/GraphQL_ObjectOriented_Implementation/Screenshots/Coverters%20dependency.PNG) 
+!["Converter Dependency"](https://github.com/rahulromilkeswani/graphql-client-for-github/blob/master/Screenshots/Coverters%20dependency.PNG) 
 
 
 
